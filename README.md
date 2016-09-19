@@ -1,4 +1,4 @@
 # STA426
 1st homework for STA426 courses
-https://github.com/sta426hs2016/material
+http://venturebeat.com/2016/09/18/when-machine-learning-redefines-your-job-youre-going-to-like-it/
 
